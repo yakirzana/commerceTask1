@@ -1,0 +1,6 @@
+q1 - 1: need to build 2 modles (standartd and extends)
+q1 - 2: change the dens of each embaded layers, add or remove dropout 
+GMF
+q2 - 3 - compare to HW2 and q1
+q3 - choose one model and add new fetures, arch in whice layers to add the data.
+look at gender example
